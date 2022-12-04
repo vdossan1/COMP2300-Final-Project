@@ -41,3 +41,18 @@ table {
     margin-right: auto;
     text-align: center;
 }
+
+ul{
+    list-style-position: inside;
+  }
+
+#main {
+    text-align: center;
+
+}
+
+#main {
+    background-color: white;
+    border-radius: 30%;
+    padding-bottom: 10px;
+}
